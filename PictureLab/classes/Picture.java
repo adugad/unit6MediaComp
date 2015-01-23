@@ -230,6 +230,7 @@ this.copy(goose7,400,300);
 Picture goose8 = new Picture("goose.jpg");
 goose8.mirrorHorizontal();
 this.copy(goose8,400,600);
+this.write("H:\\GitHub\\unit6MediaComp\\PictureLab\\images\\MyCollage.jpg");
 }
 
 

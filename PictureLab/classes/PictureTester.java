@@ -41,7 +41,7 @@ public static void testCollage()
 Picture canvas = new Picture(600,900);
 canvas.createCollage();
 canvas.explore();
-canvas.write("H:\\GitHub\\unit6MediaComp\\PictureLab\\images\\MyCollage.jpg");
+
 }
 
 /** Method to test edgeDetection */
